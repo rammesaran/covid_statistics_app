@@ -12,7 +12,7 @@
         android:label="covid_statistics_app"
         android:icon="@mipmap/ic_launcher">
           <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBsPOJlyDpCmPjHJ2mPfG11ceKAqmPN__A"/>
+               android:value="Key"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
